@@ -4,7 +4,7 @@
 
 **2.** Instale a biblioteca Axios para consumir a API: https://www.npmjs.com/package/axios.
 
-**3.** Crie seu projeto no VSCode ou no CodeSandbox e compartilhe o link do seu projeto aqui no desafio.
+**3.** Crie seu projeto no VSCode e compartilhe o link do seu projeto aqui no desafio.
 
 **4.** Se optou por usar o VSCode, faça o upload do seu projeto no GitHub e compartilhe o link.
 
